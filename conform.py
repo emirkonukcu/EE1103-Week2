@@ -1,1 +1,1 @@
-# This script is written by Muhammed Emir Konukçu
+# Junior Dev: Muhammed Emir Konukçu
